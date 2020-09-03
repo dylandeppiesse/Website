@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Deppiesse Analytics</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Dylan Deppiesse Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 15:39:29 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GoogleData</title>
+      <link>http://example.org/posts/googledata/</link>
+      <pubDate>Sat, 22 Aug 2020 15:39:29 -0700</pubDate>
+      
+      <guid>http://example.org/posts/googledata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>http://example.org/posts/firstpost/</link>
+      <pubDate>Sat, 22 Aug 2020 15:36:50 -0700</pubDate>
+      
+      <guid>http://example.org/posts/firstpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
