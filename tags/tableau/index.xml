@@ -8,14 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://dylandeppiesse.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Making of this Tableau Dashboard</title>
+      <title>The Making of a COVID-19 Tableau Dashboard</title>
       <link>https://dylandeppiesse.github.io/post/covid_tableau/</link>
       <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://dylandeppiesse.github.io/post/covid_tableau/</guid>
-      <description>Available at my Tableau Public: https://public.tableau.com/profile/dylan.deppiesse
+      <description>Available at my Tableau Public: https://public.tableau.com/profile/dylan.deppiesse#!/vizhome/CanadaCovidCasesvsMovement/CasesandMovement
 My first &amp;ldquo;real&amp;rdquo; project in terms of finding a dataset and turning it into something.
-This is something I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.</description>
+This is something that I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while now, and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.</description>
     </item>
     
   </channel>
