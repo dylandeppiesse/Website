@@ -8,25 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://dylandeppiesse.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating this website</title>
-      <link>https://dylandeppiesse.github.io/post/project-2/</link>
-      <pubDate>Sat, 05 Dec 2020 11:00:59 -0400</pubDate>
+      <title>The Making of this Tableau Dashboard</title>
+      <link>https://dylandeppiesse.github.io/post/covid_tableau/</link>
+      <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://dylandeppiesse.github.io/post/project-2/</guid>
-      <description>I never would have expected that trying to create a website to showcase my work would in itself become such a project.
-This is the first time that I have attempted to build something like this and I&amp;rsquo;m extremely happy with the result. I built this using Hugo, which allows for building static pages that can then be hosted on GitHub, which is what I have done.
-Not only was this my first foray into creating a site, it was also my first real use of GitHub - a skill which I&amp;rsquo;ve been wanting to learn for a while now.</description>
+      <guid>https://dylandeppiesse.github.io/post/covid_tableau/</guid>
+      <description>Available at my Tableau Public: https://public.tableau.com/profile/dylan.deppiesse
+My first &amp;ldquo;real&amp;rdquo; project in terms of finding a dataset and turning it into something.
+This is something I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.</description>
     </item>
     
     <item>
-      <title>Project 1</title>
-      <link>https://dylandeppiesse.github.io/post/project-1/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <title>Creating this website</title>
+      <link>https://dylandeppiesse.github.io/post/website_creation/</link>
+      <pubDate>Sat, 05 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://dylandeppiesse.github.io/post/project-1/</guid>
-      <description>My first &amp;ldquo;real&amp;rdquo; project in terms of finding a dataset and turning it into something.
-This is something I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.
-My goal was to keep it simple.</description>
+      <guid>https://dylandeppiesse.github.io/post/website_creation/</guid>
+      <description>I never would have expected that trying to create a website to showcase my work would in itself become such a project.
+This is the first time that I have attempted to build something like this and I&amp;rsquo;m extremely happy with the result. I built this using Hugo, which allows for building static pages that can then be hosted on GitHub, which is what I have done.
+Not only was this my first foray into creating a site, it was also my first real use of GitHub - a skill which I&amp;rsquo;ve been wanting to learn for a while now.</description>
     </item>
     
   </channel>

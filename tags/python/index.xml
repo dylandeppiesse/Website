@@ -6,16 +6,16 @@
     <description>Recent content in Python on Dylan Deppiesse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://dylandeppiesse.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://dylandeppiesse.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
-      <link>https://dylandeppiesse.github.io/post/project-1/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <title>The Making of this Tableau Dashboard</title>
+      <link>https://dylandeppiesse.github.io/post/covid_tableau/</link>
+      <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://dylandeppiesse.github.io/post/project-1/</guid>
-      <description>My first &amp;ldquo;real&amp;rdquo; project in terms of finding a dataset and turning it into something.
-This is something I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.
-My goal was to keep it simple.</description>
+      <guid>https://dylandeppiesse.github.io/post/covid_tableau/</guid>
+      <description>Available at my Tableau Public: https://public.tableau.com/profile/dylan.deppiesse
+My first &amp;ldquo;real&amp;rdquo; project in terms of finding a dataset and turning it into something.
+This is something I&amp;rsquo;ve been saying I&amp;rsquo;ll do for a while and I finally forced myself to just start and see where it goes. Regardless of what the outcome was, I simply knew that starting 1 project would lead to working on more and improving as I went.</description>
     </item>
     
   </channel>
