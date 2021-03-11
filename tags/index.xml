@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://dylandeppiesse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>career</title>
+      <title>Career</title>
       <link>https://dylandeppiesse.github.io/tags/career/</link>
       <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>data analysis</title>
+      <title>Data Analysis</title>
       <link>https://dylandeppiesse.github.io/tags/data-analysis/</link>
       <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>economics</title>
+      <title>Economics</title>
       <link>https://dylandeppiesse.github.io/tags/economics/</link>
       <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>goals</title>
+      <title>Goals</title>
       <link>https://dylandeppiesse.github.io/tags/goals/</link>
       <pubDate>Fri, 15 Jan 2021 11:00:59 -0400</pubDate>
       
@@ -49,6 +49,15 @@
       <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://dylandeppiesse.github.io/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://dylandeppiesse.github.io/tags/projects/</link>
+      <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dylandeppiesse.github.io/tags/projects/</guid>
       <description></description>
     </item>
     
